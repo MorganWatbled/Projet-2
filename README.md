@@ -54,8 +54,8 @@ L'enjeu métier commun : donner à la direction une lecture claire et actionnabl
 ## Résultats + impact / recommandations
 
 - Une présentation de 5 diapositives livrée à Frédéric, couvrant l'ensemble des points demandés : répartition des ventes, panier moyen, évolutions du CA et du trafic, temps passé sur le site, et projection du CA sur les prochains mois.
-- [À compléter : la conclusion réelle sur l'origine de la baisse du CA (ex. lien avec l'arrêt du segment High-Tech, saisonnalité, baisse du trafic ou du taux de conversion) une fois l'analyse des graphiques effectuée]
-- [À compléter : l'axe stratégique proposé à la direction, formulé à partir du constat ci-dessus]
+- Arrêt du segment high Tech, concentration sur la nourriture.
+- Continuer sur la nourriture
 - Un tableau de bord Excel actualisé pour Pauline, avec 5 graphiques (dont une infographie), un tableau de synthèse par client, les formules conservées et documentées pour être réutilisées en autonomie.
 - **Impact attendu :** une aide à la décision pour la direction lors de la présentation de fin de semaine, et un outil de suivi pérenne et autonome pour le pôle Marketing sur le segment des clients affiliés.
 
@@ -64,8 +64,6 @@ L'enjeu métier commun : donner à la direction une lecture claire et actionnabl
 - L'analyse s'appuie sur des graphiques déjà générés plutôt que sur les données brutes, ce qui limite la possibilité d'explorer des hypothèses non prévues par le script initial.
 - La projection du chiffre d'affaires reste une estimation à horizon court terme, sensible aux aléas externes (saisonnalité, actions promotionnelles non anticipées).
 - Le tableau de bord clients affiliés est mis à jour manuellement chaque mois : une piste d'amélioration serait d'automatiser la génération des graphiques et du tableau de synthèse à partir des données brutes (macro, requête Power Query, ou script Python).
-- [À compléter : toute autre limite ou piste spécifique identifiée pendant l'analyse, par exemple l'ajout d'indicateurs de rétention client ou d'une segmentation plus fine des clients affiliés]
-
 ---
 
 *Projet réalisé dans le cadre de la mission Data Analyst au sein du pôle Marketing du Grand Marché.*
